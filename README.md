@@ -1,1 +1,1 @@
-# Huatai-Securities-Revisiting-AlphaNet-Structural-and-Feature-Optimization
+# 量化研报复现：《华泰证券：再探AlphaNet：结构和特征优化》
